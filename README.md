@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ha Son</h1>
 <h3 align="center">I'm a 4th year student at Hanoi University of Science and Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hssh18121&label=Profile%20views&color=0e75b6&style=flat" alt="hssh18121" /> </p>
+<h2>A little bit about me:</h2>
 
 - 🔭 I’m interested in **Web & app development :3**
 
 - 👨‍💻 I want to become a fullstack developer in the future
 
-- 📫 How to reach me **hssh18121@gmail.com**
+- 📫 How to reach me: **hssh18121@gmail.com**
 
 - ❤️ Hobbies & Interests: **Sports, music and gaming!**
 
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">My stack:</h2>
 <h3 align="left">Frontend:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>

@@ -9,7 +9,6 @@
 
 - 📫 How to reach me: **hssh18121@gmail.com**
 
-- ❤️ Hobbies & Interests: **Sports, music and gaming!**
 
 
 <h2 align="left">My stack:</h2>

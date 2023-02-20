@@ -7,7 +7,7 @@
 
 - 👨‍💻 I want to become a fullstack developer in the future
 
-- 📫 How to reach me: **hssh18121@gmail.com**
+- 📫 How to reach me: **[Facebook](https://www.facebook.com/hason.nguyen.5667)**
 
 
 

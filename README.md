@@ -42,10 +42,5 @@
   
   
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hssh18121&show_icons=true&locale=en&layout=compact" alt="hssh18121" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hssh18121&show_icons=true&locale=en" alt="hssh18121" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hssh18121&" alt="hssh18121" /></p>
 
 <p>This is only the test version. More to come in the future👌...</p>

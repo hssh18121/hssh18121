@@ -5,6 +5,6 @@
 
 - 👨‍💻 I’m interested in **Web & app development**
 
-- 📫 How to reach me: **[Gmail](hssh18121@gmail.com)**
+- 📫 How to reach me: **hssh18121@gmail.com**
 
 
